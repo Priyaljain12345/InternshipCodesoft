@@ -2,7 +2,7 @@ package NumberGame;
 import java.util.Random;
 import java.util.Scanner;
 
-public class main {
+public class Task1 {
     public static void main(String[] args) {
         Random r=new Random();
         int minRange=1;
